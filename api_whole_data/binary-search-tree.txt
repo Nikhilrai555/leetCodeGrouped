@@ -1,0 +1,1327 @@
+{
+    "name": "Binary Search Tree",
+    "slug": "binary-search-tree",
+    "questions": [
+        {
+            "status": "",
+            "questionId": "95",
+            "questionFrontendId": "95",
+            "title": "Unique Binary Search Trees II",
+            "titleSlug": "unique-binary-search-trees-ii",
+            "acRate": "57.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "96",
+            "questionFrontendId": "96",
+            "title": "Unique Binary Search Trees",
+            "titleSlug": "unique-binary-search-trees",
+            "acRate": "60.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "98",
+            "questionFrontendId": "98",
+            "title": "Validate Binary Search Tree",
+            "titleSlug": "validate-binary-search-tree",
+            "acRate": "32.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "99",
+            "questionFrontendId": "99",
+            "title": "Recover Binary Search Tree",
+            "titleSlug": "recover-binary-search-tree",
+            "acRate": "52.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "108",
+            "questionFrontendId": "108",
+            "title": "Convert Sorted Array to Binary Search Tree",
+            "titleSlug": "convert-sorted-array-to-binary-search-tree",
+            "acRate": "71.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "109",
+            "questionFrontendId": "109",
+            "title": "Convert Sorted List to Binary Search Tree",
+            "titleSlug": "convert-sorted-list-to-binary-search-tree",
+            "acRate": "61.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "173",
+            "questionFrontendId": "173",
+            "title": "Binary Search Tree Iterator",
+            "titleSlug": "binary-search-tree-iterator",
+            "acRate": "71.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Iterator",
+                    "slug": "iterator"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "230",
+            "questionFrontendId": "230",
+            "title": "Kth Smallest Element in a BST",
+            "titleSlug": "kth-smallest-element-in-a-bst",
+            "acRate": "71.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "235",
+            "questionFrontendId": "235",
+            "title": "Lowest Common Ancestor of a Binary Search Tree",
+            "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+            "acRate": "63.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "255",
+            "questionFrontendId": "255",
+            "title": "Verify Preorder Sequence in Binary Search Tree",
+            "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+            "acRate": "48.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "270",
+            "questionFrontendId": "270",
+            "title": "Closest Binary Search Tree Value",
+            "titleSlug": "closest-binary-search-tree-value",
+            "acRate": "52.6%",
+            "difficulty": "Easy",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "272",
+            "questionFrontendId": "272",
+            "title": "Closest Binary Search Tree Value II",
+            "titleSlug": "closest-binary-search-tree-value-ii",
+            "acRate": "58.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "285",
+            "questionFrontendId": "285",
+            "title": "Inorder Successor in BST",
+            "titleSlug": "inorder-successor-in-bst",
+            "acRate": "49.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "333",
+            "questionFrontendId": "333",
+            "title": "Largest BST Subtree",
+            "titleSlug": "largest-bst-subtree",
+            "acRate": "43.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "449",
+            "questionFrontendId": "449",
+            "title": "Serialize and Deserialize BST",
+            "titleSlug": "serialize-and-deserialize-bst",
+            "acRate": "57.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "450",
+            "questionFrontendId": "450",
+            "title": "Delete Node in a BST",
+            "titleSlug": "delete-node-in-a-bst",
+            "acRate": "50.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "501",
+            "questionFrontendId": "501",
+            "title": "Find Mode in Binary Search Tree",
+            "titleSlug": "find-mode-in-binary-search-tree",
+            "acRate": "55.6%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "509",
+            "questionFrontendId": "510",
+            "title": "Inorder Successor in BST II",
+            "titleSlug": "inorder-successor-in-bst-ii",
+            "acRate": "60.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "530",
+            "questionFrontendId": "530",
+            "title": "Minimum Absolute Difference in BST",
+            "titleSlug": "minimum-absolute-difference-in-bst",
+            "acRate": "58.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "538",
+            "questionFrontendId": "538",
+            "title": "Convert BST to Greater Tree",
+            "titleSlug": "convert-bst-to-greater-tree",
+            "acRate": "68.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "653",
+            "questionFrontendId": "653",
+            "title": "Two Sum IV - Input is a BST",
+            "titleSlug": "two-sum-iv-input-is-a-bst",
+            "acRate": "61.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "669",
+            "questionFrontendId": "669",
+            "title": "Trim a Binary Search Tree",
+            "titleSlug": "trim-a-binary-search-tree",
+            "acRate": "66.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "758",
+            "questionFrontendId": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acRate": "64.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "783",
+            "questionFrontendId": "700",
+            "title": "Search in a Binary Search Tree",
+            "titleSlug": "search-in-a-binary-search-tree",
+            "acRate": "79.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "784",
+            "questionFrontendId": "701",
+            "title": "Insert into a Binary Search Tree",
+            "titleSlug": "insert-into-a-binary-search-tree",
+            "acRate": "73.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "789",
+            "questionFrontendId": "703",
+            "title": "Kth Largest Element in a Stream",
+            "titleSlug": "kth-largest-element-in-a-stream",
+            "acRate": "56.6%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "791",
+            "questionFrontendId": "776",
+            "title": "Split BST",
+            "titleSlug": "split-bst",
+            "acRate": "83.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "799",
+            "questionFrontendId": "783",
+            "title": "Minimum Distance Between BST Nodes",
+            "titleSlug": "minimum-distance-between-bst-nodes",
+            "acRate": "59.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "933",
+            "questionFrontendId": "897",
+            "title": "Increasing Order Search Tree",
+            "titleSlug": "increasing-order-search-tree",
+            "acRate": "78.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "975",
+            "questionFrontendId": "938",
+            "title": "Range Sum of BST",
+            "titleSlug": "range-sum-of-bst",
+            "acRate": "86.0%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1050",
+            "questionFrontendId": "1008",
+            "title": "Construct Binary Search Tree from Preorder Traversal",
+            "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+            "acRate": "81.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1114",
+            "questionFrontendId": "1038",
+            "title": "Binary Search Tree to Greater Sum Tree",
+            "titleSlug": "binary-search-tree-to-greater-sum-tree",
+            "acRate": "85.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1150",
+            "questionFrontendId": "1214",
+            "title": "Two Sum BSTs",
+            "titleSlug": "two-sum-bsts",
+            "acRate": "67.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1285",
+            "questionFrontendId": "1382",
+            "title": "Balance a Binary Search Tree",
+            "titleSlug": "balance-a-binary-search-tree",
+            "acRate": "81.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1427",
+            "questionFrontendId": "1305",
+            "title": "All Elements in Two Binary Search Trees",
+            "titleSlug": "all-elements-in-two-binary-search-trees",
+            "acRate": "79.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1475",
+            "questionFrontendId": "1373",
+            "title": "Maximum Sum BST in Binary Tree",
+            "titleSlug": "maximum-sum-bst-in-binary-tree",
+            "acRate": "40.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1692",
+            "questionFrontendId": "1569",
+            "title": "Number of Ways to Reorder Array to Get Same BST",
+            "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst",
+            "acRate": "53.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Combinatorics",
+                    "slug": "combinatorics"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1729",
+            "questionFrontendId": "1586",
+            "title": "Binary Search Tree Iterator II",
+            "titleSlug": "binary-search-tree-iterator-ii",
+            "acRate": "70.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Iterator",
+                    "slug": "iterator"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2052",
+            "questionFrontendId": "1902",
+            "title": "Depth of BST Given Insertion Order",
+            "titleSlug": "depth-of-bst-given-insertion-order",
+            "acRate": "44.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2126",
+            "questionFrontendId": "1973",
+            "title": "Count Nodes Equal to Sum of Descendants",
+            "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+            "acRate": "75.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        }
+    ],
+    "frequencies": null
+}

@@ -1,0 +1,1386 @@
+{
+    "name": "Queue",
+    "slug": "queue",
+    "questions": [
+        {
+            "status": "",
+            "questionId": "225",
+            "questionFrontendId": "225",
+            "title": "Implement Stack using Queues",
+            "titleSlug": "implement-stack-using-queues",
+            "acRate": "62.8%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "232",
+            "questionFrontendId": "232",
+            "title": "Implement Queue using Stacks",
+            "titleSlug": "implement-queue-using-stacks",
+            "acRate": "64.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "239",
+            "questionFrontendId": "239",
+            "title": "Sliding Window Maximum",
+            "titleSlug": "sliding-window-maximum",
+            "acRate": "46.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "281",
+            "questionFrontendId": "281",
+            "title": "Zigzag Iterator",
+            "titleSlug": "zigzag-iterator",
+            "acRate": "63.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Iterator",
+                    "slug": "iterator"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "341",
+            "questionFrontendId": "341",
+            "title": "Flatten Nested List Iterator",
+            "titleSlug": "flatten-nested-list-iterator",
+            "acRate": "64.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Iterator",
+                    "slug": "iterator"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "346",
+            "questionFrontendId": "346",
+            "title": "Moving Average from Data Stream",
+            "titleSlug": "moving-average-from-data-stream",
+            "acRate": "77.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "353",
+            "questionFrontendId": "353",
+            "title": "Design Snake Game",
+            "titleSlug": "design-snake-game",
+            "acRate": "38.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "362",
+            "questionFrontendId": "362",
+            "title": "Design Hit Counter",
+            "titleSlug": "design-hit-counter",
+            "acRate": "68.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "379",
+            "questionFrontendId": "379",
+            "title": "Design Phone Directory",
+            "titleSlug": "design-phone-directory",
+            "acRate": "51.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "387",
+            "questionFrontendId": "387",
+            "title": "First Unique Character in a String",
+            "titleSlug": "first-unique-character-in-a-string",
+            "acRate": "60.4%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "649",
+            "questionFrontendId": "649",
+            "title": "Dota2 Senate",
+            "titleSlug": "dota2-senate",
+            "acRate": "47.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "859",
+            "questionFrontendId": "641",
+            "title": "Design Circular Deque",
+            "titleSlug": "design-circular-deque",
+            "acRate": "56.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "860",
+            "questionFrontendId": "622",
+            "title": "Design Circular Queue",
+            "titleSlug": "design-circular-queue",
+            "acRate": "51.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "892",
+            "questionFrontendId": "862",
+            "title": "Shortest Subarray with Sum at Least K",
+            "titleSlug": "shortest-subarray-with-sum-at-least-k",
+            "acRate": "26.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "954",
+            "questionFrontendId": "918",
+            "title": "Maximum Sum Circular Subarray",
+            "titleSlug": "maximum-sum-circular-subarray",
+            "acRate": "44.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "969",
+            "questionFrontendId": "933",
+            "title": "Number of Recent Calls",
+            "titleSlug": "number-of-recent-calls",
+            "acRate": "74.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "973",
+            "questionFrontendId": "936",
+            "title": "Stamping The Sequence",
+            "titleSlug": "stamping-the-sequence",
+            "acRate": "62.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "987",
+            "questionFrontendId": "950",
+            "title": "Reveal Cards In Increasing Order",
+            "titleSlug": "reveal-cards-in-increasing-order",
+            "acRate": "78.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1037",
+            "questionFrontendId": "995",
+            "title": "Minimum Number of K Consecutive Bit Flips",
+            "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+            "acRate": "51.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1286",
+            "questionFrontendId": "1425",
+            "title": "Constrained Subsequence Sum",
+            "titleSlug": "constrained-subsequence-sum",
+            "acRate": "56.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1366",
+            "questionFrontendId": "1429",
+            "title": "First Unique Number",
+            "titleSlug": "first-unique-number",
+            "acRate": "53.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1477",
+            "questionFrontendId": "1352",
+            "title": "Product of the Last K Numbers",
+            "titleSlug": "product-of-the-last-k-numbers",
+            "acRate": "50.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1549",
+            "questionFrontendId": "1438",
+            "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+            "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+            "acRate": "48.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1622",
+            "questionFrontendId": "1499",
+            "title": "Max Value of Equation",
+            "titleSlug": "max-value-of-equation",
+            "acRate": "44.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1767",
+            "questionFrontendId": "1670",
+            "title": "Design Front Middle Back Queue",
+            "titleSlug": "design-front-middle-back-queue",
+            "acRate": "56.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1789",
+            "questionFrontendId": "1687",
+            "title": "Delivering Boxes from Storage to Ports",
+            "titleSlug": "delivering-boxes-from-storage-to-ports",
+            "acRate": "38.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Segment Tree",
+                    "slug": "segment-tree"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1802",
+            "questionFrontendId": "1700",
+            "title": "Number of Students Unable to Eat Lunch",
+            "titleSlug": "number-of-students-unable-to-eat-lunch",
+            "acRate": "70.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1814",
+            "questionFrontendId": "1696",
+            "title": "Jump Game VI",
+            "titleSlug": "jump-game-vi",
+            "acRate": "45.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1951",
+            "questionFrontendId": "1823",
+            "title": "Find the Winner of the Circular Game",
+            "titleSlug": "find-the-winner-of-the-circular-game",
+            "acRate": "78.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1953",
+            "questionFrontendId": "1825",
+            "title": "Finding MK Average",
+            "titleSlug": "finding-mk-average",
+            "acRate": "36.3%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2180",
+            "questionFrontendId": "2071",
+            "title": "Maximum Number of Tasks You Can Assign",
+            "titleSlug": "maximum-number-of-tasks-you-can-assign",
+            "acRate": "33.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2195",
+            "questionFrontendId": "2073",
+            "title": "Time Needed to Buy Tickets",
+            "titleSlug": "time-needed-to-buy-tickets",
+            "acRate": "62.7%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2408",
+            "questionFrontendId": "2327",
+            "title": "Number of People Aware of a Secret",
+            "titleSlug": "number-of-people-aware-of-a-secret",
+            "acRate": "45.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2449",
+            "questionFrontendId": "2398",
+            "title": "Maximum Number of Robots Within Budget",
+            "titleSlug": "maximum-number-of-robots-within-budget",
+            "acRate": "33.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2526",
+            "questionFrontendId": "2407",
+            "title": "Longest Increasing Subsequence II",
+            "titleSlug": "longest-increasing-subsequence-ii",
+            "acRate": "22.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Binary Indexed Tree",
+                    "slug": "binary-indexed-tree"
+                },
+                {
+                    "name": "Segment Tree",
+                    "slug": "segment-tree"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2527",
+            "questionFrontendId": "2444",
+            "title": "Count Subarrays With Fixed Bounds",
+            "titleSlug": "count-subarrays-with-fixed-bounds",
+            "acRate": "61.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2617",
+            "questionFrontendId": "2534",
+            "title": "Time Taken to Cross the Door",
+            "titleSlug": "time-taken-to-cross-the-door",
+            "acRate": "52.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2618",
+            "questionFrontendId": "2528",
+            "title": "Maximize the Minimum Powered City",
+            "titleSlug": "maximize-the-minimum-powered-city",
+            "acRate": "32.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Prefix Sum",
+                    "slug": "prefix-sum"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2620",
+            "questionFrontendId": "2526",
+            "title": "Find Consecutive Integers from a Data Stream",
+            "titleSlug": "find-consecutive-integers-from-a-data-stream",
+            "acRate": "47.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2868",
+            "questionFrontendId": "2762",
+            "title": "Continuous Subarrays",
+            "titleSlug": "continuous-subarrays",
+            "acRate": "40.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Sliding Window",
+                    "slug": "sliding-window"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3209",
+            "questionFrontendId": "2944",
+            "title": "Minimum Number of Coins for Fruits",
+            "titleSlug": "minimum-number-of-coins-for-fruits",
+            "acRate": "42.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3211",
+            "questionFrontendId": "2945",
+            "title": "Find Maximum Non-decreasing Array Length",
+            "titleSlug": "find-maximum-non-decreasing-array-length",
+            "acRate": "14.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3268",
+            "questionFrontendId": "2969",
+            "title": "Minimum Number of Coins for Fruits II",
+            "titleSlug": "minimum-number-of-coins-for-fruits-ii",
+            "acRate": "58.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Monotonic Queue",
+                    "slug": "monotonic-queue"
+                }
+            ],
+            "companyTags": []
+        }
+    ],
+    "frequencies": null
+}

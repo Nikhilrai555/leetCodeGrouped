@@ -1,0 +1,1831 @@
+{
+    "name": "Linked List",
+    "slug": "linked-list",
+    "questions": [
+        {
+            "status": "",
+            "questionId": "2",
+            "questionFrontendId": "2",
+            "title": "Add Two Numbers",
+            "titleSlug": "add-two-numbers",
+            "acRate": "41.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "19",
+            "questionFrontendId": "19",
+            "title": "Remove Nth Node From End of List",
+            "titleSlug": "remove-nth-node-from-end-of-list",
+            "acRate": "43.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "21",
+            "questionFrontendId": "21",
+            "title": "Merge Two Sorted Lists",
+            "titleSlug": "merge-two-sorted-lists",
+            "acRate": "63.6%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "23",
+            "questionFrontendId": "23",
+            "title": "Merge k Sorted Lists",
+            "titleSlug": "merge-k-sorted-lists",
+            "acRate": "51.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Merge Sort",
+                    "slug": "merge-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "24",
+            "questionFrontendId": "24",
+            "title": "Swap Nodes in Pairs",
+            "titleSlug": "swap-nodes-in-pairs",
+            "acRate": "63.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "25",
+            "questionFrontendId": "25",
+            "title": "Reverse Nodes in k-Group",
+            "titleSlug": "reverse-nodes-in-k-group",
+            "acRate": "57.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "61",
+            "questionFrontendId": "61",
+            "title": "Rotate List",
+            "titleSlug": "rotate-list",
+            "acRate": "37.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "82",
+            "questionFrontendId": "82",
+            "title": "Remove Duplicates from Sorted List II",
+            "titleSlug": "remove-duplicates-from-sorted-list-ii",
+            "acRate": "46.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "83",
+            "questionFrontendId": "83",
+            "title": "Remove Duplicates from Sorted List",
+            "titleSlug": "remove-duplicates-from-sorted-list",
+            "acRate": "51.9%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "86",
+            "questionFrontendId": "86",
+            "title": "Partition List",
+            "titleSlug": "partition-list",
+            "acRate": "55.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "92",
+            "questionFrontendId": "92",
+            "title": "Reverse Linked List II",
+            "titleSlug": "reverse-linked-list-ii",
+            "acRate": "47.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "109",
+            "questionFrontendId": "109",
+            "title": "Convert Sorted List to Binary Search Tree",
+            "titleSlug": "convert-sorted-list-to-binary-search-tree",
+            "acRate": "61.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "114",
+            "questionFrontendId": "114",
+            "title": "Flatten Binary Tree to Linked List",
+            "titleSlug": "flatten-binary-tree-to-linked-list",
+            "acRate": "64.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "116",
+            "questionFrontendId": "116",
+            "title": "Populating Next Right Pointers in Each Node",
+            "titleSlug": "populating-next-right-pointers-in-each-node",
+            "acRate": "62.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "117",
+            "questionFrontendId": "117",
+            "title": "Populating Next Right Pointers in Each Node II",
+            "titleSlug": "populating-next-right-pointers-in-each-node-ii",
+            "acRate": "51.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "138",
+            "questionFrontendId": "138",
+            "title": "Copy List with Random Pointer",
+            "titleSlug": "copy-list-with-random-pointer",
+            "acRate": "54.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "141",
+            "questionFrontendId": "141",
+            "title": "Linked List Cycle",
+            "titleSlug": "linked-list-cycle",
+            "acRate": "49.2%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "142",
+            "questionFrontendId": "142",
+            "title": "Linked List Cycle II",
+            "titleSlug": "linked-list-cycle-ii",
+            "acRate": "50.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "143",
+            "questionFrontendId": "143",
+            "title": "Reorder List",
+            "titleSlug": "reorder-list",
+            "acRate": "55.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "146",
+            "questionFrontendId": "146",
+            "title": "LRU Cache",
+            "titleSlug": "lru-cache",
+            "acRate": "42.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "147",
+            "questionFrontendId": "147",
+            "title": "Insertion Sort List",
+            "titleSlug": "insertion-sort-list",
+            "acRate": "52.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "148",
+            "questionFrontendId": "148",
+            "title": "Sort List",
+            "titleSlug": "sort-list",
+            "acRate": "56.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Divide and Conquer",
+                    "slug": "divide-and-conquer"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Merge Sort",
+                    "slug": "merge-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "160",
+            "questionFrontendId": "160",
+            "title": "Intersection of Two Linked Lists",
+            "titleSlug": "intersection-of-two-linked-lists",
+            "acRate": "56.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "203",
+            "questionFrontendId": "203",
+            "title": "Remove Linked List Elements",
+            "titleSlug": "remove-linked-list-elements",
+            "acRate": "47.9%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "206",
+            "questionFrontendId": "206",
+            "title": "Reverse Linked List",
+            "titleSlug": "reverse-linked-list",
+            "acRate": "75.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "234",
+            "questionFrontendId": "234",
+            "title": "Palindrome Linked List",
+            "titleSlug": "palindrome-linked-list",
+            "acRate": "51.4%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "237",
+            "questionFrontendId": "237",
+            "title": "Delete Node in a Linked List",
+            "titleSlug": "delete-node-in-a-linked-list",
+            "acRate": "77.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "328",
+            "questionFrontendId": "328",
+            "title": "Odd Even Linked List",
+            "titleSlug": "odd-even-linked-list",
+            "acRate": "61.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "355",
+            "questionFrontendId": "355",
+            "title": "Design Twitter",
+            "titleSlug": "design-twitter",
+            "acRate": "38.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "369",
+            "questionFrontendId": "369",
+            "title": "Plus One Linked List",
+            "titleSlug": "plus-one-linked-list",
+            "acRate": "61.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "379",
+            "questionFrontendId": "379",
+            "title": "Design Phone Directory",
+            "titleSlug": "design-phone-directory",
+            "acRate": "51.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "382",
+            "questionFrontendId": "382",
+            "title": "Linked List Random Node",
+            "titleSlug": "linked-list-random-node",
+            "acRate": "63.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Reservoir Sampling",
+                    "slug": "reservoir-sampling"
+                },
+                {
+                    "name": "Randomized",
+                    "slug": "randomized"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "432",
+            "questionFrontendId": "432",
+            "title": "All O`one Data Structure",
+            "titleSlug": "all-oone-data-structure",
+            "acRate": "36.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "445",
+            "questionFrontendId": "445",
+            "title": "Add Two Numbers II",
+            "titleSlug": "add-two-numbers-ii",
+            "acRate": "61.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "460",
+            "questionFrontendId": "460",
+            "title": "LFU Cache",
+            "titleSlug": "lfu-cache",
+            "acRate": "43.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "528",
+            "questionFrontendId": "1721",
+            "title": "Swapping Nodes in a Linked List",
+            "titleSlug": "swapping-nodes-in-a-linked-list",
+            "acRate": "68.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "716",
+            "questionFrontendId": "716",
+            "title": "Max Stack",
+            "titleSlug": "max-stack",
+            "acRate": "45.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                },
+                {
+                    "name": "Ordered Set",
+                    "slug": "ordered-set"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "725",
+            "questionFrontendId": "725",
+            "title": "Split Linked List in Parts",
+            "titleSlug": "split-linked-list-in-parts",
+            "acRate": "63.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "758",
+            "questionFrontendId": "426",
+            "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+            "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+            "acRate": "64.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Binary Search Tree",
+                    "slug": "binary-search-tree"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "766",
+            "questionFrontendId": "430",
+            "title": "Flatten a Multilevel Doubly Linked List",
+            "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+            "acRate": "59.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "816",
+            "questionFrontendId": "705",
+            "title": "Design HashSet",
+            "titleSlug": "design-hashset",
+            "acRate": "67.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Hash Function",
+                    "slug": "hash-function"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "817",
+            "questionFrontendId": "706",
+            "title": "Design HashMap",
+            "titleSlug": "design-hashmap",
+            "acRate": "65.9%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Hash Function",
+                    "slug": "hash-function"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "835",
+            "questionFrontendId": "817",
+            "title": "Linked List Components",
+            "titleSlug": "linked-list-components",
+            "acRate": "57.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "838",
+            "questionFrontendId": "707",
+            "title": "Design Linked List",
+            "titleSlug": "design-linked-list",
+            "acRate": "28.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "850",
+            "questionFrontendId": "708",
+            "title": "Insert into a Sorted Circular Linked List",
+            "titleSlug": "insert-into-a-sorted-circular-linked-list",
+            "acRate": "35.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "859",
+            "questionFrontendId": "641",
+            "title": "Design Circular Deque",
+            "titleSlug": "design-circular-deque",
+            "acRate": "56.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "860",
+            "questionFrontendId": "622",
+            "title": "Design Circular Queue",
+            "titleSlug": "design-circular-queue",
+            "acRate": "51.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "908",
+            "questionFrontendId": "876",
+            "title": "Middle of the Linked List",
+            "titleSlug": "middle-of-the-linked-list",
+            "acRate": "77.0%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1072",
+            "questionFrontendId": "1019",
+            "title": "Next Greater Node In Linked List",
+            "titleSlug": "next-greater-node-in-linked-list",
+            "acRate": "60.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1267",
+            "questionFrontendId": "1171",
+            "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+            "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+            "acRate": "43.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1337",
+            "questionFrontendId": "1206",
+            "title": "Design Skiplist",
+            "titleSlug": "design-skiplist",
+            "acRate": "60.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1404",
+            "questionFrontendId": "1265",
+            "title": "Print Immutable Linked List in Reverse",
+            "titleSlug": "print-immutable-linked-list-in-reverse",
+            "acRate": "94.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1411",
+            "questionFrontendId": "1290",
+            "title": "Convert Binary Number in a Linked List to Integer",
+            "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+            "acRate": "81.3%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1484",
+            "questionFrontendId": "1367",
+            "title": "Linked List in Binary Tree",
+            "titleSlug": "linked-list-in-binary-tree",
+            "acRate": "43.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1582",
+            "questionFrontendId": "1472",
+            "title": "Design Browser History",
+            "titleSlug": "design-browser-history",
+            "acRate": "77.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1618",
+            "questionFrontendId": "1474",
+            "title": "Delete N Nodes After M Nodes of a Linked List",
+            "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+            "acRate": "73.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1765",
+            "questionFrontendId": "1669",
+            "title": "Merge In Between Linked Lists",
+            "titleSlug": "merge-in-between-linked-lists",
+            "acRate": "72.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1767",
+            "questionFrontendId": "1670",
+            "title": "Design Front Middle Back Queue",
+            "titleSlug": "design-front-middle-back-queue",
+            "acRate": "56.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Queue",
+                    "slug": "queue"
+                },
+                {
+                    "name": "Data Stream",
+                    "slug": "data-stream"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1774",
+            "questionFrontendId": "1634",
+            "title": "Add Two Polynomials Represented as Linked Lists",
+            "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+            "acRate": "55.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1982",
+            "questionFrontendId": "1836",
+            "title": "Remove Duplicates From an Unsorted Linked List",
+            "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+            "acRate": "71.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1992",
+            "questionFrontendId": "2046",
+            "title": "Sort Linked List Already Sorted Using Absolute Values",
+            "titleSlug": "sort-linked-list-already-sorted-using-absolute-values",
+            "acRate": "67.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2182",
+            "questionFrontendId": "2058",
+            "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+            "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+            "acRate": "57.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2196",
+            "questionFrontendId": "2074",
+            "title": "Reverse Nodes in Even Length Groups",
+            "titleSlug": "reverse-nodes-in-even-length-groups",
+            "acRate": "56.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2216",
+            "questionFrontendId": "2095",
+            "title": "Delete the Middle Node of a Linked List",
+            "titleSlug": "delete-the-middle-node-of-a-linked-list",
+            "acRate": "58.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2236",
+            "questionFrontendId": "2130",
+            "title": "Maximum Twin Sum of a Linked List",
+            "titleSlug": "maximum-twin-sum-of-a-linked-list",
+            "acRate": "81.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2299",
+            "questionFrontendId": "2181",
+            "title": "Merge Nodes in Between Zeros",
+            "titleSlug": "merge-nodes-in-between-zeros",
+            "acRate": "85.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2374",
+            "questionFrontendId": "2289",
+            "title": "Steps to Make Array Non-decreasing",
+            "titleSlug": "steps-to-make-array-non-decreasing",
+            "acRate": "21.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2389",
+            "questionFrontendId": "2296",
+            "title": "Design a Text Editor",
+            "titleSlug": "design-a-text-editor",
+            "acRate": "43.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                },
+                {
+                    "name": "Doubly-Linked List",
+                    "slug": "doubly-linked-list"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2411",
+            "questionFrontendId": "2326",
+            "title": "Spiral Matrix IV",
+            "titleSlug": "spiral-matrix-iv",
+            "acRate": "75.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Simulation",
+                    "slug": "simulation"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2573",
+            "questionFrontendId": "2487",
+            "title": "Remove Nodes From Linked List",
+            "titleSlug": "remove-nodes-from-linked-list",
+            "acRate": "65.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Recursion",
+                    "slug": "recursion"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2871",
+            "questionFrontendId": "2816",
+            "title": "Double a Number Represented as a Linked List",
+            "titleSlug": "double-a-number-represented-as-a-linked-list",
+            "acRate": "48.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2903",
+            "questionFrontendId": "2807",
+            "title": "Insert Greatest Common Divisors in Linked List",
+            "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+            "acRate": "88.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Linked List",
+                    "slug": "linked-list"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Number Theory",
+                    "slug": "number-theory"
+                }
+            ],
+            "companyTags": []
+        }
+    ],
+    "frequencies": null
+}

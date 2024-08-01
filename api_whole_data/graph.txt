@@ -1,0 +1,3926 @@
+{
+    "name": "Graph",
+    "slug": "graph",
+    "questions": [
+        {
+            "status": "",
+            "questionId": "133",
+            "questionFrontendId": "133",
+            "title": "Clone Graph",
+            "titleSlug": "clone-graph",
+            "acRate": "55.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "207",
+            "questionFrontendId": "207",
+            "title": "Course Schedule",
+            "titleSlug": "course-schedule",
+            "acRate": "46.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "210",
+            "questionFrontendId": "210",
+            "title": "Course Schedule II",
+            "titleSlug": "course-schedule-ii",
+            "acRate": "49.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "261",
+            "questionFrontendId": "261",
+            "title": "Graph Valid Tree",
+            "titleSlug": "graph-valid-tree",
+            "acRate": "47.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "269",
+            "questionFrontendId": "269",
+            "title": "Alien Dictionary",
+            "titleSlug": "alien-dictionary",
+            "acRate": "35.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "277",
+            "questionFrontendId": "277",
+            "title": "Find the Celebrity",
+            "titleSlug": "find-the-celebrity",
+            "acRate": "46.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "310",
+            "questionFrontendId": "310",
+            "title": "Minimum Height Trees",
+            "titleSlug": "minimum-height-trees",
+            "acRate": "38.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "323",
+            "questionFrontendId": "323",
+            "title": "Number of Connected Components in an Undirected Graph",
+            "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+            "acRate": "62.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "329",
+            "questionFrontendId": "329",
+            "title": "Longest Increasing Path in a Matrix",
+            "titleSlug": "longest-increasing-path-in-a-matrix",
+            "acRate": "53.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "332",
+            "questionFrontendId": "332",
+            "title": "Reconstruct Itinerary",
+            "titleSlug": "reconstruct-itinerary",
+            "acRate": "43.3%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Eulerian Circuit",
+                    "slug": "eulerian-circuit"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "399",
+            "questionFrontendId": "399",
+            "title": "Evaluate Division",
+            "titleSlug": "evaluate-division",
+            "acRate": "61.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "444",
+            "questionFrontendId": "444",
+            "title": "Sequence Reconstruction",
+            "titleSlug": "sequence-reconstruction",
+            "acRate": "27.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "499",
+            "questionFrontendId": "499",
+            "title": "The Maze III",
+            "titleSlug": "the-maze-iii",
+            "acRate": "48.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "505",
+            "questionFrontendId": "505",
+            "title": "The Maze II",
+            "titleSlug": "the-maze-ii",
+            "acRate": "53.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "511",
+            "questionFrontendId": "1059",
+            "title": "All Paths from Source Lead to Destination",
+            "titleSlug": "all-paths-from-source-lead-to-destination",
+            "acRate": "38.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "547",
+            "questionFrontendId": "547",
+            "title": "Number of Provinces",
+            "titleSlug": "number-of-provinces",
+            "acRate": "65.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "631",
+            "questionFrontendId": "631",
+            "title": "Design Excel Sum Formula",
+            "titleSlug": "design-excel-sum-formula",
+            "acRate": "43.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "684",
+            "questionFrontendId": "684",
+            "title": "Redundant Connection",
+            "titleSlug": "redundant-connection",
+            "acRate": "62.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "685",
+            "questionFrontendId": "685",
+            "title": "Redundant Connection II",
+            "titleSlug": "redundant-connection-ii",
+            "acRate": "34.3%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "744",
+            "questionFrontendId": "743",
+            "title": "Network Delay Time",
+            "titleSlug": "network-delay-time",
+            "acRate": "53.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "754",
+            "questionFrontendId": "753",
+            "title": "Cracking the Safe",
+            "titleSlug": "cracking-the-safe",
+            "acRate": "56.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Eulerian Circuit",
+                    "slug": "eulerian-circuit"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "770",
+            "questionFrontendId": "765",
+            "title": "Couples Holding Hands",
+            "titleSlug": "couples-holding-hands",
+            "acRate": "57.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "801",
+            "questionFrontendId": "785",
+            "title": "Is Graph Bipartite?",
+            "titleSlug": "is-graph-bipartite",
+            "acRate": "55.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "803",
+            "questionFrontendId": "787",
+            "title": "Cheapest Flights Within K Stops",
+            "titleSlug": "cheapest-flights-within-k-stops",
+            "acRate": "37.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "813",
+            "questionFrontendId": "797",
+            "title": "All Paths From Source to Target",
+            "titleSlug": "all-paths-from-source-to-target",
+            "acRate": "82.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "820",
+            "questionFrontendId": "802",
+            "title": "Find Eventual Safe States",
+            "titleSlug": "find-eventual-safe-states",
+            "acRate": "62.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "863",
+            "questionFrontendId": "834",
+            "title": "Sum of Distances in Tree",
+            "titleSlug": "sum-of-distances-in-tree",
+            "acRate": "59.3%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "871",
+            "questionFrontendId": "841",
+            "title": "Keys and Rooms",
+            "titleSlug": "keys-and-rooms",
+            "acRate": "72.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "877",
+            "questionFrontendId": "847",
+            "title": "Shortest Path Visiting All Nodes",
+            "titleSlug": "shortest-path-visiting-all-nodes",
+            "acRate": "65.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "881",
+            "questionFrontendId": "851",
+            "title": "Loud and Rich",
+            "titleSlug": "loud-and-rich",
+            "acRate": "58.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "918",
+            "questionFrontendId": "882",
+            "title": "Reachable Nodes In Subdivided Graph",
+            "titleSlug": "reachable-nodes-in-subdivided-graph",
+            "acRate": "50.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "922",
+            "questionFrontendId": "886",
+            "title": "Possible Bipartition",
+            "titleSlug": "possible-bipartition",
+            "acRate": "50.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "949",
+            "questionFrontendId": "913",
+            "title": "Cat and Mouse",
+            "titleSlug": "cat-and-mouse",
+            "acRate": "34.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Game Theory",
+                    "slug": "game-theory"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "960",
+            "questionFrontendId": "924",
+            "title": "Minimize Malware Spread",
+            "titleSlug": "minimize-malware-spread",
+            "acRate": "42.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "964",
+            "questionFrontendId": "928",
+            "title": "Minimize Malware Spread II",
+            "titleSlug": "minimize-malware-spread-ii",
+            "acRate": "42.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "984",
+            "questionFrontendId": "947",
+            "title": "Most Stones Removed with Same Row or Column",
+            "titleSlug": "most-stones-removed-with-same-row-or-column",
+            "acRate": "58.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1032",
+            "questionFrontendId": "990",
+            "title": "Satisfiability of Equality Equations",
+            "titleSlug": "satisfiability-of-equality-equations",
+            "acRate": "50.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1039",
+            "questionFrontendId": "997",
+            "title": "Find the Town Judge",
+            "titleSlug": "find-the-town-judge",
+            "acRate": "49.1%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1100",
+            "questionFrontendId": "1135",
+            "title": "Connecting Cities With Minimum Cost",
+            "titleSlug": "connecting-cities-with-minimum-cost",
+            "acRate": "61.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Minimum Spanning Tree",
+                    "slug": "minimum-spanning-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1101",
+            "questionFrontendId": "1136",
+            "title": "Parallel Courses",
+            "titleSlug": "parallel-courses",
+            "acRate": "61.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1120",
+            "questionFrontendId": "1042",
+            "title": "Flower Planting With No Adjacent",
+            "titleSlug": "flower-planting-with-no-adjacent",
+            "acRate": "51.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1144",
+            "questionFrontendId": "1168",
+            "title": "Optimize Water Distribution in a Village",
+            "titleSlug": "optimize-water-distribution-in-a-village",
+            "acRate": "64.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Minimum Spanning Tree",
+                    "slug": "minimum-spanning-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1177",
+            "questionFrontendId": "1245",
+            "title": "Tree Diameter",
+            "titleSlug": "tree-diameter",
+            "acRate": "61.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1229",
+            "questionFrontendId": "1129",
+            "title": "Shortest Path with Alternating Colors",
+            "titleSlug": "shortest-path-with-alternating-colors",
+            "acRate": "47.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1257",
+            "questionFrontendId": "1632",
+            "title": "Rank Transform of a Matrix",
+            "titleSlug": "rank-transform-of-a-matrix",
+            "acRate": "41.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1275",
+            "questionFrontendId": "1361",
+            "title": "Validate Binary Tree Nodes",
+            "titleSlug": "validate-binary-tree-nodes",
+            "acRate": "44.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Binary Tree",
+                    "slug": "binary-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1300",
+            "questionFrontendId": "1192",
+            "title": "Critical Connections in a Network",
+            "titleSlug": "critical-connections-in-a-network",
+            "acRate": "55.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Biconnected Component",
+                    "slug": "biconnected-component"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1309",
+            "questionFrontendId": "1203",
+            "title": "Sort Items by Groups Respecting Dependencies",
+            "titleSlug": "sort-items-by-groups-respecting-dependencies",
+            "acRate": "67.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1313",
+            "questionFrontendId": "1916",
+            "title": "Count Ways to Build Rooms in an Ant Colony",
+            "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+            "acRate": "49.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Combinatorics",
+                    "slug": "combinatorics"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1325",
+            "questionFrontendId": "1514",
+            "title": "Path with Maximum Probability",
+            "titleSlug": "path-with-maximum-probability",
+            "acRate": "54.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1347",
+            "questionFrontendId": "2204",
+            "title": "Distance to a Cycle in Undirected Graph",
+            "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+            "acRate": "70.3%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1424",
+            "questionFrontendId": "1298",
+            "title": "Maximum Candies You Can Get from Boxes",
+            "titleSlug": "maximum-candies-you-can-get-from-boxes",
+            "acRate": "58.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1431",
+            "questionFrontendId": "2192",
+            "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+            "titleSlug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+            "acRate": "51.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1436",
+            "questionFrontendId": "1311",
+            "title": "Get Watched Videos by Your Friends",
+            "titleSlug": "get-watched-videos-by-your-friends",
+            "acRate": "46.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1442",
+            "questionFrontendId": "1319",
+            "title": "Number of Operations to Make Network Connected",
+            "titleSlug": "number-of-operations-to-make-network-connected",
+            "acRate": "62.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1456",
+            "questionFrontendId": "1334",
+            "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+            "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+            "acRate": "58.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1485",
+            "questionFrontendId": "1368",
+            "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+            "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+            "acRate": "61.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1493",
+            "questionFrontendId": "1377",
+            "title": "Frog Position After T Seconds",
+            "titleSlug": "frog-position-after-t-seconds",
+            "acRate": "35.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1558",
+            "questionFrontendId": "1462",
+            "title": "Course Schedule IV",
+            "titleSlug": "course-schedule-iv",
+            "acRate": "49.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1576",
+            "questionFrontendId": "1466",
+            "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+            "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+            "acRate": "65.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1587",
+            "questionFrontendId": "1494",
+            "title": "Parallel Courses II",
+            "titleSlug": "parallel-courses-ii",
+            "acRate": "29.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1613",
+            "questionFrontendId": "1489",
+            "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+            "titleSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+            "acRate": "68.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Minimum Spanning Tree",
+                    "slug": "minimum-spanning-tree"
+                },
+                {
+                    "name": "Strongly Connected Component",
+                    "slug": "strongly-connected-component"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1661",
+            "questionFrontendId": "1557",
+            "title": "Minimum Number of Vertices to Reach All Nodes",
+            "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+            "acRate": "81.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1687",
+            "questionFrontendId": "1548",
+            "title": "The Most Similar Path in a Graph",
+            "titleSlug": "the-most-similar-path-in-a-graph",
+            "acRate": "59.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1696",
+            "questionFrontendId": "1591",
+            "title": "Strange Printer II",
+            "titleSlug": "strange-printer-ii",
+            "acRate": "58.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1701",
+            "questionFrontendId": "1579",
+            "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+            "titleSlug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+            "acRate": "64.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1706",
+            "questionFrontendId": "1584",
+            "title": "Min Cost to Connect All Points",
+            "titleSlug": "min-cost-to-connect-all-points",
+            "acRate": "66.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Minimum Spanning Tree",
+                    "slug": "minimum-spanning-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1727",
+            "questionFrontendId": "1728",
+            "title": "Cat and Mouse II",
+            "titleSlug": "cat-and-mouse-ii",
+            "acRate": "39.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Game Theory",
+                    "slug": "game-theory"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1738",
+            "questionFrontendId": "1615",
+            "title": "Maximal Network Rank",
+            "titleSlug": "maximal-network-rank",
+            "acRate": "65.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1815",
+            "questionFrontendId": "1697",
+            "title": "Checking Existence of Edge Length Limited Paths",
+            "titleSlug": "checking-existence-of-edge-length-limited-paths",
+            "acRate": "62.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1820",
+            "questionFrontendId": "1719",
+            "title": "Number Of Ways To Reconstruct A Tree",
+            "titleSlug": "number-of-ways-to-reconstruct-a-tree",
+            "acRate": "44.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1865",
+            "questionFrontendId": "1724",
+            "title": "Checking Existence of Edge Length Limited Paths II",
+            "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+            "acRate": "52.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Minimum Spanning Tree",
+                    "slug": "minimum-spanning-tree"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1887",
+            "questionFrontendId": "1761",
+            "title": "Minimum Degree of a Connected Trio in a Graph",
+            "titleSlug": "minimum-degree-of-a-connected-trio-in-a-graph",
+            "acRate": "42.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1891",
+            "questionFrontendId": "1782",
+            "title": "Count Pairs Of Nodes",
+            "titleSlug": "count-pairs-of-nodes",
+            "acRate": "39.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Two Pointers",
+                    "slug": "two-pointers"
+                },
+                {
+                    "name": "Binary Search",
+                    "slug": "binary-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1912",
+            "questionFrontendId": "1786",
+            "title": "Number of Restricted Paths From First to Last Node",
+            "titleSlug": "number-of-restricted-paths-from-first-to-last-node",
+            "acRate": "39.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1916",
+            "questionFrontendId": "1791",
+            "title": "Find Center of Star Graph",
+            "titleSlug": "find-center-of-star-graph",
+            "acRate": "83.5%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1931",
+            "questionFrontendId": "1778",
+            "title": "Shortest Path in a Hidden Grid",
+            "titleSlug": "shortest-path-in-a-hidden-grid",
+            "acRate": "39.1%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1959",
+            "questionFrontendId": "1810",
+            "title": "Minimum Path Cost in a Hidden Grid",
+            "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+            "acRate": "55.3%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Interactive",
+                    "slug": "interactive"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "1986",
+            "questionFrontendId": "1857",
+            "title": "Largest Color Value in a Directed Graph",
+            "titleSlug": "largest-color-value-in-a-directed-graph",
+            "acRate": "50.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Counting",
+                    "slug": "counting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2007",
+            "questionFrontendId": "2247",
+            "title": "Maximum Cost of Trip With K Highways",
+            "titleSlug": "maximum-cost-of-trip-with-k-highways",
+            "acRate": "49.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Bitmask",
+                    "slug": "bitmask"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2040",
+            "questionFrontendId": "1928",
+            "title": "Minimum Cost to Reach Destination in Time",
+            "titleSlug": "minimum-cost-to-reach-destination-in-time",
+            "acRate": "37.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2056",
+            "questionFrontendId": "2297",
+            "title": "Jump Game VIII",
+            "titleSlug": "jump-game-viii",
+            "acRate": "48.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Stack",
+                    "slug": "stack"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Monotonic Stack",
+                    "slug": "monotonic-stack"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2065",
+            "questionFrontendId": "2307",
+            "title": "Check for Contradictions in Equations",
+            "titleSlug": "check-for-contradictions-in-equations",
+            "acRate": "42.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2090",
+            "questionFrontendId": "1976",
+            "title": "Number of Ways to Arrive at Destination",
+            "titleSlug": "number-of-ways-to-arrive-at-destination",
+            "acRate": "28.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2121",
+            "questionFrontendId": "1971",
+            "title": "Find if Path Exists in Graph",
+            "titleSlug": "find-if-path-exists-in-graph",
+            "acRate": "51.6%",
+            "difficulty": "Easy",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2151",
+            "questionFrontendId": "2039",
+            "title": "The Time When the Network Becomes Idle",
+            "titleSlug": "the-time-when-the-network-becomes-idle",
+            "acRate": "51.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2171",
+            "questionFrontendId": "2045",
+            "title": "Second Minimum Time to Reach Destination",
+            "titleSlug": "second-minimum-time-to-reach-destination",
+            "acRate": "40.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2176",
+            "questionFrontendId": "2050",
+            "title": "Parallel Courses III",
+            "titleSlug": "parallel-courses-iii",
+            "acRate": "68.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2189",
+            "questionFrontendId": "2065",
+            "title": "Maximum Path Quality of a Graph",
+            "titleSlug": "maximum-path-quality-of-a-graph",
+            "acRate": "57.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Backtracking",
+                    "slug": "backtracking"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2198",
+            "questionFrontendId": "2076",
+            "title": "Process Restricted Friend Requests",
+            "titleSlug": "process-restricted-friend-requests",
+            "acRate": "54.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2201",
+            "questionFrontendId": "2097",
+            "title": "Valid Arrangement of Pairs",
+            "titleSlug": "valid-arrangement-of-pairs",
+            "acRate": "42.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Eulerian Circuit",
+                    "slug": "eulerian-circuit"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2206",
+            "questionFrontendId": "2101",
+            "title": "Detonate the Maximum Bombs",
+            "titleSlug": "detonate-the-maximum-bombs",
+            "acRate": "49.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Math",
+                    "slug": "math"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Geometry",
+                    "slug": "geometry"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2213",
+            "questionFrontendId": "2092",
+            "title": "Find All People With Secret",
+            "titleSlug": "find-all-people-with-secret",
+            "acRate": "34.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2218",
+            "questionFrontendId": "2077",
+            "title": "Paths in Maze That Lead to Same Room",
+            "titleSlug": "paths-in-maze-that-lead-to-same-room",
+            "acRate": "54.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2220",
+            "questionFrontendId": "2115",
+            "title": "Find All Possible Recipes from Given Supplies",
+            "titleSlug": "find-all-possible-recipes-from-given-supplies",
+            "acRate": "49.2%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2230",
+            "questionFrontendId": "2093",
+            "title": "Minimum Cost to Reach City With Discounts",
+            "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+            "acRate": "55.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2246",
+            "questionFrontendId": "2127",
+            "title": "Maximum Employees to Be Invited to a Meeting",
+            "titleSlug": "maximum-employees-to-be-invited-to-a-meeting",
+            "acRate": "36.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2259",
+            "questionFrontendId": "2123",
+            "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+            "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+            "acRate": "41.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2321",
+            "questionFrontendId": "2203",
+            "title": "Minimum Weighted Subgraph With the Required Paths",
+            "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+            "acRate": "36.5%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2353",
+            "questionFrontendId": "2242",
+            "title": "Maximum Score of a Node Sequence",
+            "titleSlug": "maximum-score-of-a-node-sequence",
+            "acRate": "38.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Enumeration",
+                    "slug": "enumeration"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2364",
+            "questionFrontendId": "2246",
+            "title": "Longest Path With Different Adjacent Characters",
+            "titleSlug": "longest-path-with-different-adjacent-characters",
+            "acRate": "54.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "String",
+                    "slug": "string"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2375",
+            "questionFrontendId": "2290",
+            "title": "Minimum Obstacle Removal to Reach Corner",
+            "titleSlug": "minimum-obstacle-removal-to-reach-corner",
+            "acRate": "52.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2379",
+            "questionFrontendId": "2285",
+            "title": "Maximum Total Importance of Roads",
+            "titleSlug": "maximum-total-importance-of-roads",
+            "acRate": "61.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2403",
+            "questionFrontendId": "2316",
+            "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+            "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+            "acRate": "49.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2409",
+            "questionFrontendId": "2328",
+            "title": "Number of Increasing Paths in a Grid",
+            "titleSlug": "number-of-increasing-paths-in-a-grid",
+            "acRate": "58.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2438",
+            "questionFrontendId": "2359",
+            "title": "Find Closest Node to Given Two Nodes",
+            "titleSlug": "find-closest-node-to-given-two-nodes",
+            "acRate": "45.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2439",
+            "questionFrontendId": "2360",
+            "title": "Longest Cycle in a Graph",
+            "titleSlug": "longest-cycle-in-a-graph",
+            "acRate": "50.1%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2445",
+            "questionFrontendId": "2368",
+            "title": "Reachable Nodes With Restrictions",
+            "titleSlug": "reachable-nodes-with-restrictions",
+            "acRate": "58.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2455",
+            "questionFrontendId": "2374",
+            "title": "Node With Highest Edge Score",
+            "titleSlug": "node-with-highest-edge-score",
+            "acRate": "46.9%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2472",
+            "questionFrontendId": "2392",
+            "title": "Build a Matrix With Conditions",
+            "titleSlug": "build-a-matrix-with-conditions",
+            "acRate": "60.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2505",
+            "questionFrontendId": "2421",
+            "title": "Number of Good Paths",
+            "titleSlug": "number-of-good-paths",
+            "acRate": "56.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2506",
+            "questionFrontendId": "2371",
+            "title": "Minimize Maximum Value in a Grid",
+            "titleSlug": "minimize-maximum-value-in-a-grid",
+            "acRate": "65.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2564",
+            "questionFrontendId": "2467",
+            "title": "Most Profitable Path in a Tree",
+            "titleSlug": "most-profitable-path-in-a-tree",
+            "acRate": "48.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2568",
+            "questionFrontendId": "2477",
+            "title": "Minimum Fuel Cost to Report to the Capital",
+            "titleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+            "acRate": "65.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2582",
+            "questionFrontendId": "2492",
+            "title": "Minimum Score of a Path Between Two Cities",
+            "titleSlug": "minimum-score-of-a-path-between-two-cities",
+            "acRate": "57.5%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2583",
+            "questionFrontendId": "2493",
+            "title": "Divide Nodes Into the Maximum Number of Groups",
+            "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+            "acRate": "37.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Union Find",
+                    "slug": "union-find"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2590",
+            "questionFrontendId": "2497",
+            "title": "Maximum Star Sum of a Graph",
+            "titleSlug": "maximum-star-sum-of-a-graph",
+            "acRate": "38.7%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Greedy",
+                    "slug": "greedy"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Sorting",
+                    "slug": "sorting"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2596",
+            "questionFrontendId": "2508",
+            "title": "Add Edges to Make Degrees of All Nodes Even",
+            "titleSlug": "add-edges-to-make-degrees-of-all-nodes-even",
+            "acRate": "31.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Hash Table",
+                    "slug": "hash-table"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2612",
+            "questionFrontendId": "2473",
+            "title": "Minimum Cost to Buy Apples",
+            "titleSlug": "minimum-cost-to-buy-apples",
+            "acRate": "60.4%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2623",
+            "questionFrontendId": "2479",
+            "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+            "titleSlug": "maximum-xor-of-two-non-overlapping-subtrees",
+            "acRate": "48.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Trie",
+                    "slug": "trie"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2671",
+            "questionFrontendId": "2608",
+            "title": "Shortest Cycle in a Graph",
+            "titleSlug": "shortest-cycle-in-a-graph",
+            "acRate": "36.7%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2678",
+            "questionFrontendId": "2642",
+            "title": "Design Graph With Shortest Path Calculator",
+            "titleSlug": "design-graph-with-shortest-path-calculator",
+            "acRate": "71.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Design",
+                    "slug": "design"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2686",
+            "questionFrontendId": "2662",
+            "title": "Minimum Cost of a Path With Special Roads",
+            "titleSlug": "minimum-cost-of-a-path-with-special-roads",
+            "acRate": "36.6%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2711",
+            "questionFrontendId": "2577",
+            "title": "Minimum Time to Visit a Cell In a Grid",
+            "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+            "acRate": "34.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Matrix",
+                    "slug": "matrix"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2717",
+            "questionFrontendId": "2603",
+            "title": "Collect Coins in a Tree",
+            "titleSlug": "collect-coins-in-a-tree",
+            "acRate": "36.6%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Topological Sort",
+                    "slug": "topological-sort"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2739",
+            "questionFrontendId": "2646",
+            "title": "Minimize the Total Price of the Trips",
+            "titleSlug": "minimize-the-total-price-of-the-trips",
+            "acRate": "44.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2793",
+            "questionFrontendId": "2685",
+            "title": "Count the Number of Complete Components",
+            "titleSlug": "count-the-number-of-complete-components",
+            "acRate": "65.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2803",
+            "questionFrontendId": "2699",
+            "title": "Modify Graph Edge Weights",
+            "titleSlug": "modify-graph-edge-weights",
+            "acRate": "22.9%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2865",
+            "questionFrontendId": "2714",
+            "title": "Find Shortest Path with K Hops",
+            "titleSlug": "find-shortest-path-with-k-hops",
+            "acRate": "59.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "2880",
+            "questionFrontendId": "2737",
+            "title": "Find the Closest Marked Node",
+            "titleSlug": "find-the-closest-marked-node",
+            "acRate": "55.8%",
+            "difficulty": "Medium",
+            "isPaidOnly": true,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3079",
+            "questionFrontendId": "2846",
+            "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+            "titleSlug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+            "acRate": "43.4%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Array",
+                    "slug": "array"
+                },
+                {
+                    "name": "Tree",
+                    "slug": "tree"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Strongly Connected Component",
+                    "slug": "strongly-connected-component"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3105",
+            "questionFrontendId": "2858",
+            "title": "Minimum Edge Reversals So Every Node Is Reachable",
+            "titleSlug": "minimum-edge-reversals-so-every-node-is-reachable",
+            "acRate": "58.8%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Depth-First Search",
+                    "slug": "depth-first-search"
+                },
+                {
+                    "name": "Breadth-First Search",
+                    "slug": "breadth-first-search"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3140",
+            "questionFrontendId": "2876",
+            "title": "Count Visited Nodes in a Directed Graph",
+            "titleSlug": "count-visited-nodes-in-a-directed-graph",
+            "acRate": "32.0%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Dynamic Programming",
+                    "slug": "dynamic-programming"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Memoization",
+                    "slug": "memoization"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3189",
+            "questionFrontendId": "2924",
+            "title": "Find Champion II",
+            "titleSlug": "find-champion-ii",
+            "acRate": "56.0%",
+            "difficulty": "Medium",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                }
+            ],
+            "companyTags": []
+        },
+        {
+            "status": "",
+            "questionId": "3217",
+            "questionFrontendId": "2959",
+            "title": "Number of Possible Sets of Closing Branches",
+            "titleSlug": "number-of-possible-sets-of-closing-branches",
+            "acRate": "49.2%",
+            "difficulty": "Hard",
+            "isPaidOnly": false,
+            "topicTags": [
+                {
+                    "name": "Bit Manipulation",
+                    "slug": "bit-manipulation"
+                },
+                {
+                    "name": "Graph",
+                    "slug": "graph"
+                },
+                {
+                    "name": "Heap (Priority Queue)",
+                    "slug": "heap-priority-queue"
+                },
+                {
+                    "name": "Enumeration",
+                    "slug": "enumeration"
+                },
+                {
+                    "name": "Shortest Path",
+                    "slug": "shortest-path"
+                }
+            ],
+            "companyTags": []
+        }
+    ],
+    "frequencies": null
+}
